@@ -14,18 +14,33 @@
 
 <br/>
 
+Social Login<br/>
 ![Login 1](/assets/gifs/wellie-login1.gif)
 
+<br/>
+
+Social Signup<br/>
 ![Social Signup](/assets/gifs/wellie-social-signup.gif)
 
+<br/>
+
+Signup - Cell SMS Verification<br/>
 ![Cell Validation](/assets/gifs/wellie-cell-validation.gif)
 
+Signup - PW & Nickname Register<br/>
 ![PW Register](/assets/gifs/wellie-pw-register.gif)
 
+Signup - Completion<br/>
 ![Signup Complete](/assets/gifs/wellie-signup-complete.gif)
 
+<br/>
+
+Subscription<br/>
 ![Subscribe](/assets/gifs/wellie-subscribe.gif)
 
+<br/>
+
+Payment<br/>
 ![Payment 1](/assets/gifs/wellie-payment1.gif)
 
 ![Payment 2](/assets/gifs/wellie-payment2.gif)
