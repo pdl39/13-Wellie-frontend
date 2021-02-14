@@ -14,7 +14,7 @@
 
 <br/>
 
-![Login 1](/assets/gifs/wellie-login.gif)
+![Login 1](/assets/gifs/wellie-login1.gif)
 
 ![Social Signup](/assets/gifs/wellie-social-signup.gif)
 
